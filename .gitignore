@@ -27,6 +27,7 @@ util/cache/
 util/*.zip
 util/output/
 util/rest-spec
+util/tests
 
 # Doctum docs generator
 /doctum.phar
